@@ -1,0 +1,11 @@
+<config>
+    <Photograph>
+        <photo_count>100</photo_count>
+        <delay>0.01</delay>
+        <size>1080,720</size> <!-- tuple -->
+        <file_dir preset="./">./training</file_dir>
+        <file_name>image</file_name>
+        <file_type>jpg</file_type>
+    </Photograph>
+
+</config>
