@@ -1,4 +1,7 @@
 <config>
+    <copyright>Weiwen Wu</copyright>
+    <license>0x319e0</license>
+    <date>2023-04-26</date>
     <Photograph>
         <photo_count>100</photo_count>
         <delay>0.01</delay>
